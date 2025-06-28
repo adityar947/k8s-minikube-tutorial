@@ -11,6 +11,18 @@ This repository is structured into 5 progressive parts, each building upon the p
 
 ---
 
+## 📚 Tutorial Overview
+
+| Part | Title | Description |
+|------|-------|-------------|
+| ✅ **Part 1** | [From Zero to Local Cluster](./part-1-local-cluster) | Install Minikube, set up a local Kubernetes cluster, and deploy your first app. |
+| 🔧 **Part 2** | [Enhancing Your Kubernetes Deployment](./part2-deployment-enhancements) | Use ConfigMaps, Secrets, readiness/liveness probes, and rolling updates for a more robust deployment. |
+| 🔐 **Part 3** | [Securing and Routing Your App](./part-3-ingress-security) | Set up Ingress, enable HTTPS with TLS, and manage sensitive data securely. |
+| 📊 **Part 4** | [Monitoring with Prometheus & Grafana](./part-4-monitoring) | Monitor your Kubernetes app with Prometheus and visualize it using Grafana dashboards. |
+| 🚢 **Part 5** | [From Local to Production](./part-5-ci-cd-production) | Learn best practices for production-ready deployments and set up CI/CD using GitHub Actions. |
+
+---
+
 ## 🌟 Project Goals
 
 By the end of this tutorial series, you'll be able to:
